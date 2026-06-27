@@ -4,7 +4,6 @@
 
 This project analyzes customer churn data to identify the key factors that influence customer attrition. The analysis helps businesses understand customer behavior and improve customer retention strategies.
 
----
 
 ## 🎯 Objectives
 
@@ -12,8 +11,6 @@ This project analyzes customer churn data to identify the key factors that influ
 * Identify factors responsible for customer churn.
 * Perform Exploratory Data Analysis (EDA).
 * Generate insights for business decision-making.
-
----
 
 ## 📂 Dataset
 
@@ -44,7 +41,6 @@ The dataset contains customer information such as:
 * Matplotlib
 * Seaborn
 
----
 
 ## 📊 Project Files
 
@@ -56,9 +52,6 @@ Customer-Churn-analysis-main/
 ├── Teco Customer Churn Analysys.pdf
 └── README.md
 ```
-
----
-
 ## 📈 Analysis Performed
 
 * Data Cleaning
@@ -67,7 +60,6 @@ Customer-Churn-analysis-main/
 * Data Visualization
 * Customer Churn Analysis
 * Business Insights
----
 
 ## 📷 Sample Output
 
